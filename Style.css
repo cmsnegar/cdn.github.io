@@ -254,6 +254,13 @@ ul, ol {
 .subbox {
     width: 93%;
 }
+.prod img.img {
+    float: right;
+    max-width: 100%;
+    padding: 2px;
+    border: solid 1px #ccc;
+    margin: 2px 0 5px 5px;
+}
 .footer {
     background: #363636 url("../img/footer_bg.gif");
     color: white;
