@@ -2,9 +2,9 @@ body {direction:rtl;padding:0;margin:0;font-family:Tahoma;font-size:12px;backgro
 }
 @font-face {
   font-family: 'BYekan';
-  src: url('../fonts/BYekan.eot?#') format('eot'),  /* IE6?8 */
-     url('../fonts/BYekan.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-     url('../fonts/BYekan.ttf') format('truetype');  /* Saf3?5, Chrome4+, FF3.5, Opera 10+ */
+  src: url('http://mihanfiles.ir/Galeb/galeb1/fonts/BYekan.eot?#') format('eot'),  /* IE6?8 */
+     url('http://mihanfiles.ir/Galeb/galeb1/fonts/BYekan.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+     url('http://mihanfiles.ir/Galeb/galeb1/fonts/BYekan.ttf') format('truetype');  /* Saf3?5, Chrome4+, FF3.5, Opera 10+ */
 }
 .clear{clear:both;}
 span.green{color:Green;}
